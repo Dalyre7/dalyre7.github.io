@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+  
+}
+
+
+p {
+    color: white;
+    font-family: Arial;
+    font-size: 30px;
+    padding: 30px;
+}
+
+
+div {
+    align-items: center;
+    text-align: center;
+}
+
+.legal {
+    font-size: 20px;
+}
+
+.home {
+    height: 30px;
+    width: 130px;
+    border-color: white;
+    background-color: black;
+    color: white;
+    border-style: solid;
+}
+
+.home:hover {
+    height: 30px;
+    width: 130px;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-style: solid;
+}

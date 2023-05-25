@@ -1,0 +1,207 @@
+
+body {
+    background-color: white;
+    font-family: Arial;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+li {
+    display: inline-block;
+    padding: 30px;
+    color: rgb(0, 0, 0);
+
+}
+
+.navbar {
+    background-color: black;
+    height: 170px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    align-items: center;
+    text-align: center;
+}
+
+.listnav {
+    align-items: center;
+    text-align: center;
+    background-color: rgba(219, 219, 219, 0.537);
+    margin: 45px;
+    border: 2px solid black;
+
+   
+}
+
+
+.robot {
+    color: white;
+    padding: 30px;
+  
+}
+
+
+
+
+
+.robot {
+    padding-left: 30px;
+}
+
+.intro {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 25px;
+}
+
+
+
+
+.say {
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+
+  
+}
+
+.text {
+    height: 50px;
+    width: 450px;
+}
+
+
+
+.btn {
+    height: 30px;
+    width: 100px;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    background-color: rgba(187, 187, 187, 0.296);
+    color: rgb(0, 0, 0);
+}
+
+
+.btn:hover {
+    height: 30px;
+    width: 100px;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+
+
+.footer {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    height: 160px;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.arrow {
+    color: white;
+    padding: 30px;
+}
+
+
+
+.one {
+    display: inline-block;
+    padding: 15px;
+}
+
+.images {
+    align-items: center;
+    padding: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 400px;
+
+
+}
+
+.dunno {
+    height: 300px;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.173);
+    text-align: center;
+    align-items: center;
+    border: 2px solid black;
+  
+}
+
+
+
+.stilldunno {
+    padding: 20px;
+}
+
+
+.switch, .aws {
+    background-color: black;
+    border-style: none;
+    color: white;
+    padding: 30px;
+
+}
+
+.switch:hover, .aws:hover, .other:hover {
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-color: black;
+    color: rgb(0, 0, 0);
+    padding: 30px;
+    display: inline-block;
+}
+
+
+
+.email {
+    color: black;
+    padding: 35px;
+}
+
+.icons {
+    text-align: center;
+    align-items: center;
+    
+}
+
+
+.email:hover {
+    color: rgb(47, 78, 205);
+}
+
+
+
+.bro {
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+}
+
+
+.phone {
+    font-size: 35px;
+}
+
+
+.introduction {
+    padding: 15px;
+    align-items: center;
+    text-align: center;
+}
+
+
+.AHH {
+    padding-left: 37%;
+}

@@ -1,0 +1,215 @@
+
+
+
+body {
+    background-image: url('wp7909231-black-and-white-people-wallpapers.jpg');
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+}
+
+
+li {
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    display: inline-block;
+    font-family: Arial;
+    padding-bottom: 10px;
+   
+
+
+}
+
+
+
+li:hover {
+    background-color: rgba(255, 255, 255, 0.079);
+    border-radius: 5px;
+    text-decoration: underline;
+
+}
+
+
+.btn:hover {
+    background-color: white;
+    height: 35px;
+    width: 80px;
+    color: black;
+    border-radius: 7px;
+    border-style: none;
+
+
+}
+
+.btn {
+    background-color: rgba(41, 41, 41, 0.467);
+    height: 35px;
+    width: 80px;
+    color: rgb(255, 255, 255);
+    border-radius: 7px;
+    border-style: solid;
+    border-color: white;
+
+}
+
+
+.navbar {
+    align-items: left;
+    text-align: left;
+    display: left;
+    margin: left;
+    background-color: rgba(255, 255, 255, 0);
+    height: 80px;
+  
+   
+}
+
+
+
+
+
+
+
+p {
+    color: white;
+    font-size: 80px;
+    font-family: Arial;
+    margin: 0;
+ 
+
+}
+
+.upgrade {
+    align-items: left;
+    text-align: left;
+    padding: 80px;
+ 
+}
+
+
+
+.learn {
+    height: 35px;
+    width: 200px;
+    border-radius: 30px;
+    border-style: none;
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    
+  
+    
+   
+}
+
+.learn:hover {
+    height: 35px;
+    width: 200px;
+    border-radius: 30px;
+    background-color: rgba(211, 211, 211, 0.22);
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    border-style: solid;
+    border-color: white;
+    
+    
+}
+
+
+.nav {
+    align-items: left;
+    text-align: left;
+    padding: 1px;
+}
+
+
+
+
+
+
+
+
+.fuckery {
+    align-items: left;
+    text-align: left;
+    padding: 80px;
+    margin: 0;
+
+
+}
+
+
+
+.explore {
+    color: white;
+    font-family: Arial;
+    font-size: 25px;
+    padding: 8px;
+}
+
+
+.circle, .twocircle, .threecircle, .fill, .circlefill, .ffill {
+    color: white;
+    padding: 10px;
+}
+
+
+.circle:hover, .twocircle:hover, .threecircle:hover {
+    color: grey;
+}
+.pages {
+    padding-left: 80px;
+    align-items: left;
+
+}
+
+
+
+.ground {
+    height: 350px;
+}
+
+
+.breaking {
+    padding-left: 80px;
+}
+
+
+.Github {
+    color: rgb(0, 0, 0);
+    padding: 25px;
+}
+
+.Github:hover {
+    color: rgb(22, 77, 40);
+}
+.help {
+    background-color: rgb(255, 255, 255);
+    height: 200px;
+    align-items: center;
+    text-align: center;
+    
+}
+
+
+
+.icon {
+    color: white;
+    padding: 30px;
+}
+
+
+.legal, .developers, .findings {
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    display: inline-block;
+    padding: 15px;
+  
+
+}
+
+
+.legal:hover {
+    color: rgb(20, 87, 40);
+    text-decoration: underline;
+}
