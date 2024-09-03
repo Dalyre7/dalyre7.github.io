@@ -1,4 +1,4 @@
 # dalyre7.github.io
 
-Idk if i did this right lmaoooo.
-
+user no longer active.
+web deleted 
